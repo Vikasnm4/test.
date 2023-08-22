@@ -1,1 +1,6 @@
+{{#user}}
+Name: VIKAS N M
+Skills: HTML, CSS, JS, Next.js
+Email: vikasmnm4444@gmail.com
+{{/user}}
 
